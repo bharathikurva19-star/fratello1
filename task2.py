@@ -1,11 +1,7 @@
 print("hello")
 print("bharathi")
-print("akhilllll")
-print("dashbord")
-print("hi")
-print("world")
-print("")
-print("akhill+dashbord openingsss")
+print("akhill+dashbord openingssshhhhnmnnjhg")
 ###janardhan code
-print("with in the same file task2 ,i added some code")
+print("with in the same file task2 ,i added ggg")
+print("sai")
 
